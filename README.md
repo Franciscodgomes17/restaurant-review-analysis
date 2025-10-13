@@ -12,7 +12,7 @@ This project tackles the "Hyderabadi Word Soup" by analyzing restaurant reviews 
 
 ## Key Features
 
-### 🔍 Multi-Label Classification
+### Multi-Label Classification
 - **Vectorization Methods**: TF-IDF, Word2Vec (Skip-gram & CBOW), GloVe
 - **Classification Strategies**: OneVsRest, ClassifierChain
 - **Models Tested**: Logistic Regression, Decision Trees, Random Forest, MLP, Dummy Classifier
@@ -35,15 +35,15 @@ This project tackles the "Hyderabadi Word Soup" by analyzing restaurant reviews 
 
 ## Project Structure
 Text_Mining_Restaurant_Analysis/
-├── 📊 Notebook_Group_8.ipynb # Main analysis notebook
-├── 🔧 Functions_Group_8.py # Utility functions module
-├── 📁 data/ # Dataset directory
+├── Notebook_Group_8.ipynb # Main analysis notebook
+├── Functions_Group_8.py # Utility functions module
+├── data/ # Dataset directory
 │ ├── 10k_reviews.csv
 │ ├── 105_restaurants.csv
 │ └── glove/ # GloVe embeddings
-├── 📄 requirements.txt # Dependencies
-├── 📄 README.md # Project documentation
-└── 📄 LICENSE # MIT License
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
+└── LICENSE # MIT License
 
 
 ## Installation & Setup
